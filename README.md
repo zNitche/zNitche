@@ -1,6 +1,6 @@
 ## Hello there ...
 
-- :briefcase: Professional Software Developer.
+- :briefcase: Full-time Software Developer.
 - :computer: Working with Raspberry Pi microcomputers & microcontrollers.
 - :desktop_computer: Linux & Windows.
 - :keyboard: Currently programming using Python/MicroPython, JS and C#.
