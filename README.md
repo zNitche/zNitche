@@ -7,4 +7,3 @@
 - :spider_web: Creating Flask Apps & Microservices.
 - :video_game: Games Modder & Developer.
 - :calendar: Writing code since 2020.
----
